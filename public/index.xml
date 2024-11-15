@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Md. Azmain Fayek - Innovating in Technology &amp; Solutions</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Md. Azmain Fayek - Innovating in Technology &amp; Solutions</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Nov 2024 09:47:05 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 14 Nov 2024 09:47:05 +0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a &lt;strong&gt;Professional Web Developer&lt;/strong&gt; with a passion for innovation, crafting seamless digital experiences that bridge technology with user-centric design.&lt;/p&gt;
+&lt;p&gt;During the day, I engineer web solutions that solve real-world challenges, specializing in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Front-end technologies for dynamic and responsive interfaces.&lt;/li&gt;
+&lt;li&gt;Full-stack development with scalable and maintainable architecture.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At night, I share my expertise as a content creator, empowering aspiring developers and tech enthusiasts through engaging tutorials and hands-on projects:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pre-Exam Process Automation System</title>
+      <link>http://localhost:1313/projects/pre-exam-process-automation/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pre-exam-process-automation/</guid>
+      <description>A web-based platform automating the exam registration process at Jahangirnagar University.</description>
+    </item>
+    <item>
+      <title>Responsive Web Design Certification Projects</title>
+      <link>http://localhost:1313/projects/responsive-web-design/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/projects/responsive-web-design/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The freeCodeCamp Responsive Web Design Certification is a comprehensive course that provides hands-on experience in designing and building responsive websites. Through a series of practical projects, I gained proficiency in HTML, CSS, and JavaScript, focusing on creating web pages that adapt to different screen sizes and devices. These projects emphasized the importance of user-friendly design and efficient coding practices.&lt;/p&gt;
+&lt;p&gt;The certification required completing five major projects, including a personal portfolio webpage, product landing page, survey form, technical documentation page, and a tribute page. Each project involved applying concepts such as flexbox, grid layout, media queries, and CSS frameworks to ensure that the pages were responsive and accessible across various platforms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Evolution of Programming</title>
+      <link>http://localhost:1313/blog/the-evolution-of-programming/</link>
+      <pubDate>Wed, 15 May 2024 23:15:00 +0700</pubDate>
+      <guid>http://localhost:1313/blog/the-evolution-of-programming/</guid>
+      <description>A comprehensive guide to understanding the evolution of programming, key milestones, and how programming has transformed the tech industry over time.</description>
+    </item>
+    <item>
+      <title>What Is Web Development?</title>
+      <link>http://localhost:1313/blog/what-is-web-development/</link>
+      <pubDate>Wed, 03 Apr 2024 23:15:00 +0700</pubDate>
+      <guid>http://localhost:1313/blog/what-is-web-development/</guid>
+      <description>A comprehensive guide to understanding web development, from frontend and backend to full-stack development and common tasks in the field.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;
+&lt;h3 id=&#34;web-development&#34;&gt;Web Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing and developing responsive websites using HTML, CSS, JavaScript, and modern web technologies.&lt;/li&gt;
+&lt;li&gt;Building and maintaining web applications with a focus on user experience and performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;object-oriented-analysis-and-design-ooad&#34;&gt;Object-Oriented Analysis and Design (OOAD)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Working on OOAD projects, applying principles like encapsulation, inheritance, and polymorphism to design scalable systems.&lt;/li&gt;
+&lt;li&gt;Developing UML diagrams, sequence diagrams, and class diagrams for system design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;frontend--backend-development&#34;&gt;Frontend &amp;amp; Backend Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Expertise in frontend frameworks like React and Vue.js.&lt;/li&gt;
+&lt;li&gt;Backend development with Node.js, Express, and databases like MongoDB and MySQL.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-consultation&#34;&gt;Project Consultation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Offering consultation for web development projects, ensuring effective system architecture and design solutions.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;:&lt;br&gt;
+&lt;a href=&#34;mailto:fayekazmain6@gmail.com&#34;&gt;fayekazmain6@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phone&lt;/strong&gt;:&lt;br&gt;
+[(+880) 1762988707]
+(tel:(+880) 123456789)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Address&lt;/strong&gt;:&lt;br&gt;
+&lt;a href=&#34;https://maps.google.com/?q=Thana+Stand,+Savar,+Dhaka&#34;&gt;Thana Stand, Savar, Dhaka&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Twitter&lt;/strong&gt;:&lt;br&gt;
+&lt;a href=&#34;https://twitter.com/azmain12345&#34;&gt;Follow on Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

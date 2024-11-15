@@ -1,0 +1,239 @@
+baseURL: "https://yourportfolio.com/"
+title: "Md. Azmain Fayek - Innovating in Technology & Solutions"
+pagination:
+  pagerSize: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+
+params:
+  env: production # enables google analytics, opengraph, etc.
+  title: "Your Name"
+  description: "Empowering [clients/students/companies] with cutting-edge solutions in [Web Development/Data Science/Other Specialization]."
+  keywords: [Web Development, Data Science, [Your Specialization]]
+  author: "Md.Azmain Fayek"
+  DateFormat: "January 2, 2024"
+  defaultTheme: dark # light, auto, or dark
+  disableThemeToggle: false
+  label:
+    text: "Md. Azmain Fayek"
+    icon: "images/portfolio1.png"
+    iconHeight: 35
+
+  # Portfolio Enhancements
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true # Table of Contents
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true # enable table of contents
+  tocopen: false
+
+  # Branding Assets
+  assets:
+    favicon: "path/to/your/favicon.ico"
+    apple_touch_icon: "path/to/your/apple-touch-icon.png"
+    favicon16x16: "path/to/your/favicon-16x16.png"
+    favicon32x32: "path/to/your/favicon-32x32.png"
+    safari_pinned_tab: "path/to/your/safari-pinned-tab.svg"
+
+  # Profile Mode Customization
+  profileMode:
+    enabled: true
+    title: "Welcome! 👋"
+    subtitle: "This is the portfolio of **Md.Azmain Fayek**, a Professional Web Developer crafting engaging digital experiences and sharing insights to empower the tech community."
+    imageUrl: "images/me.png"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: "Profile Image"
+    buttons:
+      - name: View Projects
+        url: /projects/
+      - name: Contact Me
+        url: /contact/
+
+  # Home Info Mode Customization
+  homeInfoParams:
+    Title: "Welcome to [Your Name]'s Portfolio"
+    Content: "Explore my work, insights, and creative journey."
+
+  # Social Links for Wider Engagement
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/yourprofile/"
+    - name: github
+      url: "https://github.com/Azmain2099"
+    - name: twitter
+      url: "https://twitter.com/azmain12345"
+    - name: instagram
+      url: "https://instagram.com/yourhandle"
+    - name: youtube
+      url: "https://youtube.com/yourchannel"
+
+  # SEO and Analytics
+  analytics:
+    google:
+      SiteVerificationTag: "your-google-site-verification-tag"
+    bing:
+      SiteVerificationTag: "your-bing-verification-tag"
+    yandex:
+      SiteVerificationTag: "your-yandex-verification-tag"
+
+  # Cover Image Settings
+  cover:
+    hidden: true # hide cover image on pages unless in structured data
+    hiddenInList: true # hide on list pages
+    hiddenInSingle: true # hide on single pages
+
+  # Post Edit Links
+  editPost:
+    URL: "https://github.com/yourusername/yourrepo/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  # Search Configuration
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 2
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+# Main Navigation Menu
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 2
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 3
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 4
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 5
+    - identifier: testimonials
+      name: Testimonials
+      url: /testimonials/
+      weight: 6
+      # Performance Optimizations
+minify:
+  disableXML: true # Disable minifying XML
+  minifyOutput: true # Minifies HTML, CSS, JS output for faster load times
+
+# Taxonomies (Optional, customize to your needs)
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  author: "authors"
+
+# Related Content Configuration (Optional)
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+
+# Output Formats (For SEO, social sharing, and more)
+outputFormats:
+  HTML:
+    mediatype: "text/html"
+    isPlainText: false
+  RSS:
+    mediatype: "application/rss+xml"
+    isPlainText: false
+
+# Custom CSS or JS (Override or include additional styling/script)
+customCSS: "path/to/custom.css" # Optional custom CSS file
+customJS: "path/to/custom.js" # Optional custom JS file
+
+# Syntax Highlighting for Code Blocks (Chroma)
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false # Controls use of classes for styling
+    style: monokai # Theme style (e.g., monokai, github, etc.)
+    lineNos: true # Enable line numbers in code blocks
+    codeFences: true
+    guessSyntax: true
+
+# Custom Shortcodes (Optional; tailor as needed for reusable UI components)
+shortcodes:
+  example:
+    path: "shortcodes/example.html"
+    description: "Description for custom example shortcode"
+
+# Page-specific Meta Tags for Enhanced SEO
+head:
+  meta:
+    title: "Professional Portfolio of Your Name"
+    description: "Showcasing top projects, insights, and solutions in [Field/Area of Expertise]."
+    keywords: "Web Development, Data Science, Your Key Skills, [Add more]"
+    robots: "index, follow"
+
+# Lazy Loading for Media (Optional for performance improvements)
+lazyLoading: true # Enables lazy loading of images
+
+# Cookie Consent Banner (Optional; ensure compliance with local data laws)
+cookieConsent:
+  enabled: true
+  message: "This website uses cookies to ensure you get the best experience on our website."
+  dismiss: "Got it!"
+  link: "https://yourportfolio.com/privacy-policy"
+
+# Advanced Navigation & Sub-menus
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+    - identifier: services
+      name: Services
+      url: /services/
+      weight: 3
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 4
+    
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 5
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 6
+    
+
+
+# Syntax Highlighting for Code Blocks
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
